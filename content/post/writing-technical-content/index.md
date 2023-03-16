@@ -2,6 +2,7 @@
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+toc: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -389,4 +390,3 @@ renders as
 
 ### Did you find this page helpful? Consider sharing it 🙌
 
-toc: true
